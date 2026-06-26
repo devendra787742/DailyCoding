@@ -1,0 +1,26 @@
+import java.util.*;
+class Main {
+    public static void main(String aurgs[]){
+        System.out.println("devendra ");
+        Scanner sc = new Scanner(System.in);
+        char choice ;
+        do {
+            System.out.println("enter the number");
+        int num = sc.nextInt();
+        if(num >0){
+            System.out.println("this number is positive ");
+        }
+        else if (num < 0){
+            System.out.println("this number is negative ");
+        }
+        else {
+            System.out.println("this number is Zero");
+        }
+        
+        System.out.println("do you want to check another number ? type (y/n):");
+        choice = sc.next().charAt(0);
+        }
+        while (choice == 'y' || choice == 'Y');
+        
+    }
+}
