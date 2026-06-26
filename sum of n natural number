@@ -1,0 +1,16 @@
+class Main {
+    public static void main(String[] args) {
+        System.out.println("some of n natural numbar ");
+        int n = 5;
+        int sum = getsum(n);
+        System.out.println(sum);
+    }
+    static int getsum (int n){
+        if(n==0){
+        return n;
+        }
+        
+        return n + getsum(n-1);
+        
+    }
+}
