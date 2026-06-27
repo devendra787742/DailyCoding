@@ -1,0 +1,14 @@
+class Main {
+    public static void main(String args[]){
+        int num1 = 10;
+        int num2 = 15;
+  
+        if(num1==num2){
+            System.out.println("both are equal ");
+        }else{
+            int temp;
+        temp = num1 > num2? num1:num2;
+        System.out.println(temp + " is big one ");
+        }
+    }
+}
