@@ -1,0 +1,21 @@
+class Main{
+    public static void main(String args[]){
+        int num = 11;
+        boolean isprime = true;
+        if(num < 2){
+            isprime = false;
+        }
+        else{
+            for(int i=2; i<num; i++){
+                if(num % i == 0){
+                    isprime = false;
+                    break;
+                }
+            }
+               
+        }
+         String result;
+         result = isprime ? "primenumber" : "not primenumber";
+         System.out.println(result);
+    }
+}
