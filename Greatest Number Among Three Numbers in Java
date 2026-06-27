@@ -1,0 +1,11 @@
+class Main{
+    public static void main(String args[]){
+        int num1 = 10;
+        int num2 = 15;
+        int num3 = 20;
+        int temp, result ;
+        temp = num1 > num2? num1:num2;
+        result = temp > num3? temp:num3;
+        System.out.println(result+" is greatest number ");
+    }
+}
