@@ -34,4 +34,16 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0056-merge-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
