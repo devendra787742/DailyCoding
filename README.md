@@ -38,12 +38,15 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
