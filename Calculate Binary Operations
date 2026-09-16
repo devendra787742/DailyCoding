@@ -1,0 +1,33 @@
+import java.util.*;
+
+public class Main {
+    public static int CalculateBinaryOperations(String str){
+      if (str == null || str.length()==0){
+        return -1;
+      }
+    int result = Character.getNumericValue(str.charAt(0));
+     for(int i=1; i<str.length(); i += 2){
+       char ch = str.charAt(i);
+       int nextDigit = Character.getNumericValue(str.charAt(i+1));
+       switch(ch) {
+        case 'A':
+        result = result & nextDigit;
+        break;
+        case 'B':
+        result = result | nextDigit;
+        break;
+        case 'C':
+        result = result ^ nextDigit;
+        break ;
+       }
+     }
+     return result;
+    }
+    public static void main(String[] args) {
+      System.out.println("Hello, World!");
+      Scanner sc = new Scanner(System.in);
+      String str = sc.nextLine();
+      System.out.println(CalculateBinaryOperations(str));
+              
+    }
+}
