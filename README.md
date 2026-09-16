@@ -56,4 +56,20 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
