@@ -1,0 +1,26 @@
+import java.util.*;
+
+public class Main {
+    public static int DifferenceOfSum(int n, int a){
+     int num = 1;
+     int dividable = 0;
+     int nondividable = 0;
+     while(num <= n){
+      if(num % a == 0){
+        dividable += num;
+      }
+      else{
+        nondividable += num;
+      }
+      num += 1;
+     }
+     return nondividable - dividable;
+    }
+    public static void main(String[] args) {
+      System.out.println("Hello, World!");
+      Scanner sc = new Scanner(System.in);
+      int n = sc.nextInt();
+      int a = sc.nextInt();
+      System.out.println(DifferenceOfSum(n, a));
+    }
+}
