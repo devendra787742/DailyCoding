@@ -28,11 +28,13 @@ i am learning DSA and i upload new code here every day
 | [0055-jump-game](https://github.com/devendra787742/DailyCoding/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/devendra787742/DailyCoding/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Quicksort
 |  |
 | ------- |
@@ -44,11 +46,13 @@ i am learning DSA and i upload new code here every day
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sliding Window
 |  |
 | ------- |
