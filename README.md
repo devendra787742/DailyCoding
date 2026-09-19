@@ -106,4 +106,12 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devendra787742/DailyCoding/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devendra787742/DailyCoding/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
