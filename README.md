@@ -11,6 +11,7 @@ i am learning DSA and i upload new code here every day
 | [0056-merge-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devendra787742/DailyCoding/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/devendra787742/DailyCoding/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/devendra787742/DailyCoding/tree/master/0136-single-number) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -114,4 +115,8 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devendra787742/DailyCoding/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/devendra787742/DailyCoding/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
