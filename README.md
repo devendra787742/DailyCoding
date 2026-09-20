@@ -54,6 +54,7 @@ i am learning DSA and i upload new code here every day
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,4 +120,8 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0136-single-number](https://github.com/devendra787742/DailyCoding/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
