@@ -12,6 +12,7 @@ i am learning DSA and i upload new code here every day
 | [0057-insert-interval](https://github.com/devendra787742/DailyCoding/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/devendra787742/DailyCoding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devendra787742/DailyCoding/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/devendra787742/DailyCoding/tree/master/0137-single-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -120,6 +121,7 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0136-single-number](https://github.com/devendra787742/DailyCoding/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/devendra787742/DailyCoding/tree/master/0137-single-number-ii) |
 ## Simulation
 |  |
 | ------- |
