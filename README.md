@@ -17,6 +17,7 @@ i am learning DSA and i upload new code here every day
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devendra787742/DailyCoding/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -128,4 +130,8 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
