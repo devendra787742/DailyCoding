@@ -10,6 +10,7 @@ i am learning DSA and i upload new code here every day
 | [0055-jump-game](https://github.com/devendra787742/DailyCoding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devendra787742/DailyCoding/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/devendra787742/DailyCoding/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/devendra787742/DailyCoding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devendra787742/DailyCoding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devendra787742/DailyCoding/tree/master/0137-single-number-ii) |
@@ -128,6 +129,7 @@ i am learning DSA and i upload new code here every day
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/devendra787742/DailyCoding/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/devendra787742/DailyCoding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devendra787742/DailyCoding/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/devendra787742/DailyCoding/tree/master/0260-single-number-iii) |
@@ -139,4 +141,8 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/devendra787742/DailyCoding/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
