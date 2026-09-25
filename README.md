@@ -41,6 +41,7 @@ i am learning DSA and i upload new code here every day
 | ------- |
 | [0056-merge-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
+| [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Quicksort
 |  |
@@ -52,6 +53,7 @@ i am learning DSA and i upload new code here every day
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devendra787742/DailyCoding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -60,6 +62,7 @@ i am learning DSA and i upload new code here every day
 | ------- |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
+| [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -80,6 +83,7 @@ i am learning DSA and i upload new code here every day
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -150,4 +154,9 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0078-subsets](https://github.com/devendra787742/DailyCoding/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
