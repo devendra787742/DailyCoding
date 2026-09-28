@@ -87,6 +87,7 @@ i am learning DSA and i upload new code here every day
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
@@ -94,6 +95,7 @@ i am learning DSA and i upload new code here every day
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/devendra787742/DailyCoding/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -102,6 +104,7 @@ i am learning DSA and i upload new code here every day
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0802-find-eventual-safe-states](https://github.com/devendra787742/DailyCoding/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
@@ -109,6 +112,7 @@ i am learning DSA and i upload new code here every day
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/devendra787742/DailyCoding/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0701-insert-into-a-binary-search-tree) |
