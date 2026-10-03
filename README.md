@@ -27,6 +27,7 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/devendra787742/DailyCoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devendra787742/DailyCoding/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
@@ -69,6 +70,7 @@ i am learning DSA and i upload new code here every day
 | ------- |
 | [0020-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
@@ -95,6 +97,7 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0145-binary-tree-postorder-traversal) |
@@ -223,6 +226,7 @@ i am learning DSA and i upload new code here every day
 | ------- |
 | [0020-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devendra787742/DailyCoding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
