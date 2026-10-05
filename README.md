@@ -17,6 +17,7 @@ i am learning DSA and i upload new code here every day
 | [0260-single-number-iii](https://github.com/devendra787742/DailyCoding/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devendra787742/DailyCoding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -105,6 +106,7 @@ i am learning DSA and i upload new code here every day
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/devendra787742/DailyCoding/tree/master/0678-valid-parenthesis-string) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devendra787742/DailyCoding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -123,6 +125,7 @@ i am learning DSA and i upload new code here every day
 | [0450-delete-node-in-a-bst](https://github.com/devendra787742/DailyCoding/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devendra787742/DailyCoding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -149,6 +152,7 @@ i am learning DSA and i upload new code here every day
 | [0450-delete-node-in-a-bst](https://github.com/devendra787742/DailyCoding/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devendra787742/DailyCoding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +164,7 @@ i am learning DSA and i upload new code here every day
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/devendra787742/DailyCoding/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/devendra787742/DailyCoding/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -240,4 +245,8 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/devendra787742/DailyCoding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
