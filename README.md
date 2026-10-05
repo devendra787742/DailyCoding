@@ -77,6 +77,7 @@ i am learning DSA and i upload new code here every day
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/devendra787742/DailyCoding/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devendra787742/DailyCoding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -106,6 +107,7 @@ i am learning DSA and i upload new code here every day
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/devendra787742/DailyCoding/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devendra787742/DailyCoding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -237,6 +239,7 @@ i am learning DSA and i upload new code here every day
 | [0022-generate-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/devendra787742/DailyCoding/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devendra787742/DailyCoding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
