@@ -11,6 +11,7 @@ i am learning DSA and i upload new code here every day
 | [0056-merge-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devendra787742/DailyCoding/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/devendra787742/DailyCoding/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/devendra787742/DailyCoding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devendra787742/DailyCoding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devendra787742/DailyCoding/tree/master/0137-single-number-ii) |
@@ -60,6 +61,7 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devendra787742/DailyCoding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -120,6 +122,7 @@ i am learning DSA and i upload new code here every day
 | [0100-same-tree](https://github.com/devendra787742/DailyCoding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devendra787742/DailyCoding/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devendra787742/DailyCoding/tree/master/0199-binary-tree-right-side-view) |
@@ -147,6 +150,7 @@ i am learning DSA and i upload new code here every day
 | [0100-same-tree](https://github.com/devendra787742/DailyCoding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devendra787742/DailyCoding/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devendra787742/DailyCoding/tree/master/0199-binary-tree-right-side-view) |
@@ -252,4 +256,8 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
