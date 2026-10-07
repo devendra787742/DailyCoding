@@ -264,4 +264,8 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/devendra787742/DailyCoding/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
