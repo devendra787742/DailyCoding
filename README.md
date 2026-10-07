@@ -1,5 +1,5 @@
 # DailyCoding
-i am learning DSA and i upload new code here every day
+i am learning DSA and i upload code here every day
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
