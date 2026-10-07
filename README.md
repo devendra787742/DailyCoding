@@ -78,6 +78,7 @@ i am learning DSA and i upload code here every day
 | [0022-generate-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/devendra787742/DailyCoding/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0856-score-of-parentheses) |
@@ -212,6 +213,7 @@ i am learning DSA and i upload code here every day
 | ------- |
 | [0022-generate-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/devendra787742/DailyCoding/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -220,6 +222,7 @@ i am learning DSA and i upload code here every day
 | [0101-symmetric-tree](https://github.com/devendra787742/DailyCoding/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devendra787742/DailyCoding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devendra787742/DailyCoding/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0301-remove-invalid-parentheses) |
 | [0802-find-eventual-safe-states](https://github.com/devendra787742/DailyCoding/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devendra787742/DailyCoding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
