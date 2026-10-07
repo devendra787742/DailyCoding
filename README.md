@@ -268,4 +268,5 @@ i am learning DSA and i upload new code here every day
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/devendra787742/DailyCoding/tree/master/0584-find-customer-referee) |
+| [1757-recyclable-and-low-fat-products](https://github.com/devendra787742/DailyCoding/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
