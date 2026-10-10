@@ -23,6 +23,7 @@ i am learning DSA and i upload code here every day
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devendra787742/DailyCoding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/devendra787742/DailyCoding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devendra787742/DailyCoding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devendra787742/DailyCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@ i am learning DSA and i upload code here every day
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devendra787742/DailyCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devendra787742/DailyCoding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devendra787742/DailyCoding/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@ i am learning DSA and i upload code here every day
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devendra787742/DailyCoding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devendra787742/DailyCoding/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -173,6 +176,7 @@ i am learning DSA and i upload code here every day
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devendra787742/DailyCoding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devendra787742/DailyCoding/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -293,4 +297,8 @@ i am learning DSA and i upload code here every day
 | [1683-invalid-tweets](https://github.com/devendra787742/DailyCoding/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/devendra787742/DailyCoding/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/devendra787742/DailyCoding/tree/master/1934-confirmation-rate) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devendra787742/DailyCoding/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
