@@ -15,6 +15,7 @@ i am learning DSA and i upload code here every day
 | [0135-candy](https://github.com/devendra787742/DailyCoding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devendra787742/DailyCoding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devendra787742/DailyCoding/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/devendra787742/DailyCoding/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
@@ -196,6 +197,7 @@ i am learning DSA and i upload code here every day
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devendra787742/DailyCoding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devendra787742/DailyCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -308,4 +310,8 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devendra787742/DailyCoding/tree/master/2778-sum-of-squares-of-special-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
