@@ -1,0 +1,19 @@
+import java.util.*;
+
+public class Main {
+    public static int getSum(int sum, int a, int b){
+      if(a>b){
+        return sum;
+      }return a + getSum(sum, a+1, b);
+
+    }
+    public static void main(String[] args) {
+      System.out.println("Hello, World!");
+      Scanner sc = new Scanner(System.in);
+      int a = sc.nextInt();
+      int b = sc.nextInt();
+      int sum = getSum(0, a, b);
+      System.out.println(sum);
+
+    }
+}
