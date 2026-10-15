@@ -97,6 +97,7 @@ i am learning DSA and i upload code here every day
 | [0856-score-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devendra787742/DailyCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/devendra787742/DailyCoding/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devendra787742/DailyCoding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -206,6 +207,7 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/devendra787742/DailyCoding/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devendra787742/DailyCoding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devendra787742/DailyCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -325,4 +327,12 @@ i am learning DSA and i upload code here every day
 | ------- |
 | [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/devendra787742/DailyCoding/tree/master/1768-merge-strings-alternately) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/devendra787742/DailyCoding/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/devendra787742/DailyCoding/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
