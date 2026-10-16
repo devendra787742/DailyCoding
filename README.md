@@ -28,6 +28,7 @@ i am learning DSA and i upload code here every day
 | [2778-sum-of-squares-of-special-elements](https://github.com/devendra787742/DailyCoding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devendra787742/DailyCoding/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devendra787742/DailyCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/devendra787742/DailyCoding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devendra787742/DailyCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/devendra787742/DailyCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -86,6 +87,7 @@ i am learning DSA and i upload code here every day
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devendra787742/DailyCoding/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devendra787742/DailyCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/devendra787742/DailyCoding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -234,6 +236,7 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devendra787742/DailyCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/devendra787742/DailyCoding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 ## Backtracking
 |  |
@@ -342,4 +345,5 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devendra787742/DailyCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/devendra787742/DailyCoding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
