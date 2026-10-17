@@ -18,6 +18,7 @@ i am learning DSA and i upload code here every day
 | [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/devendra787742/DailyCoding/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/devendra787742/DailyCoding/tree/master/0605-can-place-flowers) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devendra787742/DailyCoding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -51,6 +52,7 @@ i am learning DSA and i upload code here every day
 | [0055-jump-game](https://github.com/devendra787742/DailyCoding/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/devendra787742/DailyCoding/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/devendra787742/DailyCoding/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/devendra787742/DailyCoding/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devendra787742/DailyCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
