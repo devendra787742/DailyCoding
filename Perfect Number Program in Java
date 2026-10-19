@@ -1,0 +1,23 @@
+import java.util.*;
+public class Main {
+    public static void factor(int num){
+      int original = num ;
+      int sum = 1;
+      for(int i=2; i<num; i++){   
+        if(num%i==0){
+          sum = sum + i;
+        }
+      }
+      if(original == sum){
+        System.out.println("this number is perfect number");
+      }
+      else
+      System.out.println("not perfect number");
+    }
+    public static void main(String[] args) {
+      System.out.println("Hello, World!");
+      Scanner sc = new Scanner(System.in);
+      int num = sc.nextInt();
+      factor(num);
+    }
+}
