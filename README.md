@@ -106,6 +106,7 @@ i am learning DSA and i upload code here every day
 | [0032-longest-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
 | [0301-remove-invalid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/devendra787742/DailyCoding/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0856-score-of-parentheses) |
@@ -348,6 +349,7 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/devendra787742/DailyCoding/tree/master/1768-merge-strings-alternately) |
 ## Euclidean Algorithm
 |  |
