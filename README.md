@@ -105,6 +105,7 @@ i am learning DSA and i upload code here every day
 | [0022-generate-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/devendra787742/DailyCoding/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/devendra787742/DailyCoding/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/devendra787742/DailyCoding/tree/master/0424-longest-repeating-character-replacement) |
@@ -348,6 +349,7 @@ i am learning DSA and i upload code here every day
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/devendra787742/DailyCoding/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/devendra787742/DailyCoding/tree/master/1768-merge-strings-alternately) |
