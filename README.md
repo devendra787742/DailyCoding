@@ -37,6 +37,7 @@ i am learning DSA and i upload code here every day
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devendra787742/DailyCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/devendra787742/DailyCoding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/devendra787742/DailyCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/devendra787742/DailyCoding/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ i am learning DSA and i upload code here every day
 | [2333-minimum-sum-of-squared-difference](https://github.com/devendra787742/DailyCoding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/devendra787742/DailyCoding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/devendra787742/DailyCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/devendra787742/DailyCoding/tree/master/3886-sum-of-sortable-integers) |
 ## Quicksort
 |  |
 | ------- |
@@ -233,6 +235,7 @@ i am learning DSA and i upload code here every day
 | [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devendra787742/DailyCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/devendra787742/DailyCoding/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/devendra787742/DailyCoding/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
 | ------- |
@@ -346,6 +349,7 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devendra787742/DailyCoding/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/devendra787742/DailyCoding/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
