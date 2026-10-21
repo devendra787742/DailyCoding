@@ -129,6 +129,7 @@ i am learning DSA and i upload code here every day
 | [1768-merge-strings-alternately](https://github.com/devendra787742/DailyCoding/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/devendra787742/DailyCoding/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
