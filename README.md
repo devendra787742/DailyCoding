@@ -18,6 +18,7 @@ i am learning DSA and i upload code here every day
 | [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/devendra787742/DailyCoding/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/devendra787742/DailyCoding/tree/master/0260-single-number-iii) |
+| [0334-increasing-triplet-subsequence](https://github.com/devendra787742/DailyCoding/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/devendra787742/DailyCoding/tree/master/0605-can-place-flowers) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
@@ -57,6 +58,7 @@ i am learning DSA and i upload code here every day
 | [0045-jump-game-ii](https://github.com/devendra787742/DailyCoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devendra787742/DailyCoding/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/devendra787742/DailyCoding/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/devendra787742/DailyCoding/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/devendra787742/DailyCoding/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/devendra787742/DailyCoding/tree/master/0678-valid-parenthesis-string) |
@@ -388,4 +390,8 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devendra787742/DailyCoding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/devendra787742/DailyCoding/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
