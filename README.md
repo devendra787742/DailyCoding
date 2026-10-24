@@ -133,6 +133,7 @@ i am learning DSA and i upload code here every day
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devendra787742/DailyCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/devendra787742/DailyCoding/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/devendra787742/DailyCoding/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/devendra787742/DailyCoding/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -243,6 +244,7 @@ i am learning DSA and i upload code here every day
 | [1071-greatest-common-divisor-of-strings](https://github.com/devendra787742/DailyCoding/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devendra787742/DailyCoding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devendra787742/DailyCoding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/devendra787742/DailyCoding/tree/master/2409-count-days-spent-together) |
 | [3525-find-x-value-of-array-ii](https://github.com/devendra787742/DailyCoding/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devendra787742/DailyCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/devendra787742/DailyCoding/tree/master/3723-maximize-sum-of-squares-of-digits) |
