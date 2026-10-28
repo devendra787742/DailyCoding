@@ -6,6 +6,7 @@ i am learning DSA and i upload code here every day
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devendra787742/DailyCoding/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/devendra787742/DailyCoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devendra787742/DailyCoding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devendra787742/DailyCoding/tree/master/0056-merge-intervals) |
@@ -63,6 +64,7 @@ i am learning DSA and i upload code here every day
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devendra787742/DailyCoding/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/devendra787742/DailyCoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devendra787742/DailyCoding/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/devendra787742/DailyCoding/tree/master/0135-candy) |
@@ -379,6 +381,7 @@ i am learning DSA and i upload code here every day
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devendra787742/DailyCoding/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/devendra787742/DailyCoding/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devendra787742/DailyCoding/tree/master/0283-move-zeroes) |
