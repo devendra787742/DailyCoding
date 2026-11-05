@@ -28,6 +28,7 @@ i am learning DSA and i upload code here every day
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/devendra787742/DailyCoding/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/devendra787742/DailyCoding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devendra787742/DailyCoding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devendra787742/DailyCoding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -95,6 +96,7 @@ i am learning DSA and i upload code here every day
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devendra787742/DailyCoding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devendra787742/DailyCoding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/devendra787742/DailyCoding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendra787742/DailyCoding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devendra787742/DailyCoding/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devendra787742/DailyCoding/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -244,6 +246,7 @@ i am learning DSA and i upload code here every day
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/devendra787742/DailyCoding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devendra787742/DailyCoding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devendra787742/DailyCoding/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -414,6 +417,7 @@ i am learning DSA and i upload code here every day
 | [0345-reverse-vowels-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/devendra787742/DailyCoding/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/devendra787742/DailyCoding/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/devendra787742/DailyCoding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devendra787742/DailyCoding/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/devendra787742/DailyCoding/tree/master/1768-merge-strings-alternately) |
 ## Euclidean Algorithm
