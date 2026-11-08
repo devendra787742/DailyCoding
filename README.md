@@ -28,6 +28,7 @@ i am learning DSA and i upload code here every day
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/devendra787742/DailyCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/devendra787742/DailyCoding/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devendra787742/DailyCoding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devendra787742/DailyCoding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -229,6 +230,7 @@ i am learning DSA and i upload code here every day
 | [0802-find-eventual-safe-states](https://github.com/devendra787742/DailyCoding/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devendra787742/DailyCoding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/devendra787742/DailyCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/devendra787742/DailyCoding/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devendra787742/DailyCoding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devendra787742/DailyCoding/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -331,6 +333,7 @@ i am learning DSA and i upload code here every day
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devendra787742/DailyCoding/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/devendra787742/DailyCoding/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/devendra787742/DailyCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/devendra787742/DailyCoding/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devendra787742/DailyCoding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -367,6 +370,7 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/devendra787742/DailyCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/devendra787742/DailyCoding/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/devendra787742/DailyCoding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devendra787742/DailyCoding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/devendra787742/DailyCoding/tree/master/3665-twisted-mirror-path-count) |
@@ -444,6 +448,7 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/devendra787742/DailyCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/devendra787742/DailyCoding/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devendra787742/DailyCoding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devendra787742/DailyCoding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
@@ -462,4 +467,8 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/devendra787742/DailyCoding/tree/master/0334-increasing-triplet-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/devendra787742/DailyCoding/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
