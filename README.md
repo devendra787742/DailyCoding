@@ -38,6 +38,7 @@ i am learning DSA and i upload code here every day
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/devendra787742/DailyCoding/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devendra787742/DailyCoding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devendra787742/DailyCoding/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/devendra787742/DailyCoding/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devendra787742/DailyCoding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/devendra787742/DailyCoding/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devendra787742/DailyCoding/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -195,6 +196,7 @@ i am learning DSA and i upload code here every day
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devendra787742/DailyCoding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devendra787742/DailyCoding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/devendra787742/DailyCoding/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
 | ------- |
