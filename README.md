@@ -29,6 +29,7 @@ i am learning DSA and i upload code here every day
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devendra787742/DailyCoding/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/devendra787742/DailyCoding/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/devendra787742/DailyCoding/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devendra787742/DailyCoding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/devendra787742/DailyCoding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devendra787742/DailyCoding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devendra787742/DailyCoding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -200,6 +201,7 @@ i am learning DSA and i upload code here every day
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devendra787742/DailyCoding/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/devendra787742/DailyCoding/tree/master/0930-binary-subarrays-with-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devendra787742/DailyCoding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devendra787742/DailyCoding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devendra787742/DailyCoding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/devendra787742/DailyCoding/tree/master/1732-find-the-highest-altitude) |
@@ -304,6 +306,7 @@ i am learning DSA and i upload code here every day
 | [0189-rotate-array](https://github.com/devendra787742/DailyCoding/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devendra787742/DailyCoding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devendra787742/DailyCoding/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devendra787742/DailyCoding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devendra787742/DailyCoding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devendra787742/DailyCoding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devendra787742/DailyCoding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -505,4 +508,12 @@ i am learning DSA and i upload code here every day
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/devendra787742/DailyCoding/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/devendra787742/DailyCoding/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/devendra787742/DailyCoding/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
